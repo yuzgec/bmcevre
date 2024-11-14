@@ -119,7 +119,7 @@
 
     </div>
 </div>
-
+{{-- 
 <div class="container py-5 my-5">
     <div class="row justify-content-center pb-3 mb-4">
         <div class="col-lg-9 col-xl-8 text-center">
@@ -225,7 +225,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
 
 @endsection
 @section('customCSS')

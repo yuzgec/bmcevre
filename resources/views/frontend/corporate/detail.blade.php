@@ -6,7 +6,7 @@
     <div class="container">
         <div class="row mt-5">
             <div class="col-md-12 align-self-center p-static order-2 text-center">
-                <h1 class="text-9 font-weight-bold">{{ $Detay->title}}</h1>
+                <h1 class="text-9 font-weight-bold mt-2 mb-2">{{ $Detay->title}}</h1>
                 <span class="sub-title">{{ config('settings.siteTitle')}}</span>
             </div>
             <div class="col-md-12 align-self-center order-1">

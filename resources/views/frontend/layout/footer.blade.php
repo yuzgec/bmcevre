@@ -3,7 +3,7 @@
         <div class="row py-5 my-4">
             <div class="col-md-3 mb-4 mb-lg-0">
                 <a href="{{ route('home')}}" class="logo pe-0 pe-lg-3">
-                    <img alt="{{ __('site.firmaadi')}}" src="/logo.png" class="opacity-7 bottom-4" height="75">
+                    <img alt="{{ __('site.firmaadi')}}" src="/bmlogo2.png" class="opacity-7 bottom-4" height="200">
                 </a>
 
                 </p>
